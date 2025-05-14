@@ -16,7 +16,7 @@ The circuit disconnects the battery when the voltage drops below 11.5V. Due to b
 
 Circuit schematic is shown below:
 
-![Schematic](Images/Schematic.png)
+![Schematic](Images/Schematic.PNG)
 
 It uses two Phoenix Contact connectors and two LEDs for indicating when input/output is present.
 
