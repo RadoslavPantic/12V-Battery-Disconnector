@@ -1,0 +1,11 @@
+Reference,Qty,Value,Footprint,Datasheet
+"C1,C2",2,100n,Capacitor_SMD:C_0805_2012Metric,~
+C3,1,220n,Capacitor_SMD:C_0805_2012Metric,~
+C4,1,220u,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,https://www.we-online.com/components/products/datasheet/860020373010.pdf
+"D1,D2",2,LED,LED_SMD:LED_0805_2012Metric,~
+"J1,J3",2,Conn_01x02,"Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal",~
+"Q1,Q2",2,PXN012-60QLJ,PXN012-60QLJ:PXN01260QLJ,https://assets.nexperia.com/documents/data-sheet/PXN012-60QL.pdf
+"R1,R4",2,680R,Resistor_SMD:R_0805_2012Metric,~
+R2,1,300k,Resistor_SMD:R_0805_2012Metric,~
+R3,1,33k,Resistor_SMD:R_0805_2012Metric,~
+U1,1,LM74502QDDFRQ1,Package_TO_SOT_SMD:SOT-23-8,https://www.ti.com/lit/ds/symlink/lm74502-q1.pdf?ts=1744874624528&ref_url=https%253A%252F%252Feu.mouser.com%252F
